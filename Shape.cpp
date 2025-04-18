@@ -52,8 +52,7 @@ int main(){
 
     cout << "Area of Rectangle: " << rectangle->area() << endl;
 
-    delete circle;
-    delete square;
+    
 
     return 0;
 }
